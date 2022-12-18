@@ -1,4 +1,4 @@
-# Pet Showcase App
+# Pet Showcase App © Alexander-Didenko-71
 
 ## Install and run:
 
